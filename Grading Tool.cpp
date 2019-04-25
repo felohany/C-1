@@ -2,6 +2,9 @@
 //using dev c++
 //reminds me of a in class activity
 //Grading Tool
+//4-13-19
+//Assignment made by DR. T
+//TCC TR Campus
 #include<iostream>
 #include<algorithm>
 #include<vector>
